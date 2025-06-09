@@ -59,5 +59,5 @@ for (let i = dates.length - 1; i > 0; i--) {
 }
 
 // Start the commit process
-console.log("Starting to make 127 commits...");
+console.log("Starting to make 127 commits....");
 makeCommits(dates);
